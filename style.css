@@ -122,6 +122,7 @@ span{
 }
 
 .about me-img img {
+  flex: 0 0 35%;
   max-width: 700px;
   height: auto;
   border-radius: 50%;
