@@ -98,8 +98,11 @@ span{
   border-radius:50%;
 }
 .home-img img{
+  height:400px;
   display:grid;
   position: center left;
   width:600px;
   border-radius:30%;
+  margin-top:20px;
+  margin-bottom:20px;
 }
