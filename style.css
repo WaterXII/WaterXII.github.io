@@ -31,7 +31,7 @@ header{
 }
 .logo{
   font-size:40px;
-  color:lightblue;
+  color:blue;
   cursor:pointer;
   transition:0.5s ease;
 }
@@ -98,7 +98,7 @@ span{
   border-radius:50%;
 }
 .home-img img{
-  height:1000px;
+  height:800px;
   position:relative;
   width:600px;
   border-radius:50%;
