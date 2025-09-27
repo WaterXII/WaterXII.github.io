@@ -30,15 +30,7 @@ header {
   justify-content:space-between;
   align-items:center;
 }
-.logo{
-  font-size:40px;
-  color:blue;
-  cursor:pointer;
-  transition:0.5s ease;
-}
-.logo:hover{
-  transform: scale(1.2);
-}
+
 nav ul{
   list-style: none;
   display: flex;
@@ -127,19 +119,19 @@ span{
   align-items: center;
   gap: 20px;
 }
-.social-icons h4{
+.social-icons h3{
   margin: 0;
   font-size: 40px;
 }
 .social-icons .social-links a{
   font-size: 40px;
 }
-.social-links {
+.social-links{
   margin-top: 20px;
   display: flex;
   gap: 20px; 
 }
-.social-links a {
+.social-links a{
   font-size: 40px;
   color: white;
   transition: 0.3s ease;
