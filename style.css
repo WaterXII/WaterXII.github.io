@@ -47,5 +47,31 @@ nav a.active{
   color:blue;
   border-bottom: 3px solid blue;
 }
-  
-    
+  @media(max-width:995px){
+    nav{
+      position:absolute;
+      top:100%;
+      right:0;
+      width:40%;
+      border-left: 3px solid blue
+      border-bottom: 3px solid blue
+      border-bottom-left-radius:30px;
+      padding:16px solid;
+      background-color:black;
+      border-top:2px solid black;
+    }
+    nav.active{
+    display:block;
+  }
+    nav a{
+      display:block;
+      font-size: 30px;
+      margin:50px;
+    }
+    nav a:hover,
+    nav a.active{
+      padding:15px;
+      border-radius:10px;
+      border-bottom:10px solid blue;
+    }
+  }'
