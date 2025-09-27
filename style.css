@@ -114,3 +114,21 @@ span{
 .social-links a:nth-child(1):hover {color:crimson;} 
 .social-links a:nth-child(2):hover {color:gray;} 
 
+.about me {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+  padding: 100px 10%;
+}
+
+.about me-img img {
+  width: 700px;
+  height: auto;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.about me-text h1 {
+  font-size: 40px;
+  color: blue;
+}
