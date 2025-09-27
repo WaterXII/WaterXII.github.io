@@ -31,7 +31,7 @@ header{
 }
 .logo{
   font-size:40px;
-  color:darkblue;
+  color:blue;
   cursor:pointer;
   transition:0.5s ease;
 }
