@@ -5,7 +5,7 @@
   text-decoration:none;
   border:none;
   outline:none;
-  font-family:"Poppins",sans-serif;
+  font-family:"Times New Roman",serif;
 }
 html{
   font-size:62.5%;
@@ -67,6 +67,7 @@ nav a.active{
 }
 span{
   color:blue;
+  font-family:"Lucida Handwriting", cursive;
 }
 
 .home-img{
