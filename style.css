@@ -74,4 +74,19 @@ nav a.active{
       border-radius:10px;
       border-bottom:10px solid blue;
     }
-  }'
+  }
+.home{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:128px;
+  background-color:black;
+}
+.home .home-content h1{
+  font-size: 100px;
+  font-weight: 700;
+  line-height: 1.3;
+}
+span{
+  color:blue;
+}
