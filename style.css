@@ -106,8 +106,8 @@ span{
 }
 
 .home-img{
-  flex: 0 0 40%;
-  max-width: 800px;
+  flex: 0 0 35%;
+  max-width: 700px;
   display:flex;
   justify-content:center;
   align-items:center;
