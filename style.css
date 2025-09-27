@@ -104,7 +104,8 @@ span{
   border-radius:50%;
 }
 .home-img img{
-  position: relative;
+  display:grid;
+  position: center left;
   width:600px;
   border-radius:30%;
 }
