@@ -90,3 +90,12 @@ nav a.active{
 span{
   color:blue;
 }
+
+.home-img{
+  border-radius:50%;
+}
+.home-img img{
+  position: relative;
+  width:600px;
+  border-radius:30%;
+}
