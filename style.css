@@ -114,14 +114,14 @@ span{
 .social-links a:nth-child(1):hover {color:crimson;} 
 .social-links a:nth-child(2):hover {color:gray;} 
 
-.about me {
+.about-me {
   display: flex;
   align-items: center;
   gap: 100px;
   padding: 100px 10%;
 }
 
-.about me-img img {
+.about-me-img img {
   flex: 0 0 35%;
   max-width: 700px;
   height: auto;
@@ -129,7 +129,7 @@ span{
   object-fit: cover;
 }
 
-.about me-text h1 {
+.about-me-text h1 {
   font-size: 40px;
   color: blue;
 }
